@@ -2,7 +2,7 @@
 
 # Polarity
 
-A website that performs sentiment analysis on tweets when user inputs a hashtag.
+A website that performs sentiment analysis on tweets when user inputs a hashtags.
 
 ## Team Members
 
